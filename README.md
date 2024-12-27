@@ -24,13 +24,13 @@ README.md: This file, providing an overview of the project.
 <p>
   To replicate the analysis: Clone the repository:
 
-bash Copy code git clone https://github.com/benimadhav188/EmpolyeeBurnoutAnalysis.git
+Bash Copy code git clone https://github.com/benimadhav188/EmpolyeeBurnoutAnalysis.git
 
 Install the required packages: requirement.txt
 
 Ensure you have the necessary Python packages installed. You can use pip to install them:
 
-bash Copy code pip install -r requirements.txt Note: The requirements.txt file should list all dependencies. If it's not present, you may need to manually install packages such as pandas, numpy, scikit-learn, and matplotlib.
+Bash Copy code pip install -r requirements.txt Note: The requirements.txt file should list all dependencies. If it's not present, you may need to manually install packages such as pandas, numpy, scikit-learn, and matplotlib.
 
 Open the Jupyter Notebook:
 
