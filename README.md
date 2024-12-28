@@ -1,4 +1,4 @@
-<b><h1>EMPLOYMENT-BURNOUT-ANALYSIS BY AI -AICTE - IBM </h1><b>
+<b><h1>EMPLOYMENT BURNOUT ANALYSIS BY AI -AICTE  IBM </h1><b>
 <p>
   This repository contains the Employment Burnout Analysis (EBA) project, developed of IBM Artificial intelligence (AI)  and curriculum. The project focuses on analyzing employee burnout using Artificial intelligence (AI) techniques..
   
