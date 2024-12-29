@@ -11,7 +11,7 @@ In this project, we analyze a dataset containing various features related to emp
 </p>
 <b><h2> Repository Contents</h2><b>
 <p>
-  ProjectEBA.ipynb: Jupyter Notebook containing the complete analysis and model development process.
+  ProjectEBA.ipynb: Google colab Notebook containing the complete analysis and model development process.
 
 requirement.txt:To install the project dependencies
 
