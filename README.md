@@ -32,7 +32,7 @@ Ensure you have the necessary Python packages installed. You can use pip to inst
 
 Bash Copy code pip install -r requirements.txt Note: The requirements.txt file should list all dependencies. If it's not present, you may need to manually install packages such as pandas, numpy, scikit-learn, and matplotlib.
 
-Open the Jupyter Notebook:
+Open the google colab Notebook:
 
 Navigate to the project directory and open the notebook:
 
