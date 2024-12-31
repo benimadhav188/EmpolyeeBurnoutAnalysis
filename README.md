@@ -36,7 +36,7 @@ Open the juputer Notebook:
 
 Navigate to the project directory and open the notebook:
 
-Bash Copy code google colab notebook ProjectEBA.ipynb Run the analysis:
+Bash Copy code jupyter notebook ProjectEBA.ipynb Run the analysis:
 
 Execute the cells in the notebook to perform the data analysis and model training
 </p>
