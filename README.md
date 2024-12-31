@@ -11,7 +11,7 @@ In this project, we analyze a dataset containing various features related to emp
 </p>
 <b><h2> Repository Contents</h2><b>
 <p>
-  ProjectEBA.ipynb: Google colab Notebook containing the complete analysis and model development process.
+  ProjectEBA.ipynb: jupyter Notebook containing the complete analysis and model development process.
 
 requirement.txt:To install the project dependencies
 
@@ -32,7 +32,7 @@ Ensure you have the necessary Python packages installed. You can use pip to inst
 
 Bash Copy code pip install -r requirements.txt Note: The requirements.txt file should list all dependencies. If it's not present, you may need to manually install packages such as pandas, numpy, scikit-learn, and matplotlib.
 
-Open the google colab Notebook:
+Open the juputer Notebook:
 
 Navigate to the project directory and open the notebook:
 
